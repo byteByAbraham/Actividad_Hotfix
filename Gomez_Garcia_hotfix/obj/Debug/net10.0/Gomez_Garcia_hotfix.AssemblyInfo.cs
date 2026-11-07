@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gomez_Garcia_hotfix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1762bac3d9e45980d0fdcd0ebac4331837eba776")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e4c2563556068c9277d2edeb22986ce53f0009c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gomez_Garcia_hotfix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gomez_Garcia_hotfix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

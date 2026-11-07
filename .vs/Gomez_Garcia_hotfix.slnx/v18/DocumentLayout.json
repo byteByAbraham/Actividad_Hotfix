@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|d:\\proyectosc#\\gomez_garcia_hotfix\\gomez_garcia_hotfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|solutionrelative:gomez_garcia_hotfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{704F1040-5023-4444-D505-34AC0652171E}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|d:\\proyectosc#\\gomez_garcia_hotfix\\gomez_garcia_hotfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704F1040-5023-4444-D505-34AC0652171E}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|solutionrelative:gomez_garcia_hotfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|d:\\proyectosc#\\gomez_garcia_hotfix\\gomez_garcia_hotfix\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|solutionrelative:gomez_garcia_hotfix\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{704F1040-5023-4444-D505-34AC0652171E}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|d:\\proyectosc#\\gomez_garcia_hotfix\\gomez_garcia_hotfix\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{704F1040-5023-4444-D505-34AC0652171E}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|solutionrelative:gomez_garcia_hotfix\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Gomez_Garcia_hotfix\\Personaje.cs",
               "ToolTip": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix\\Personaje.cs",
               "RelativeToolTip": "Gomez_Garcia_hotfix\\Personaje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T23:52:40.603Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Gomez_Garcia_hotfix\\Program.cs",
               "ToolTip": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix\\Program.cs",
               "RelativeToolTip": "Gomez_Garcia_hotfix\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-06T23:49:56.254Z",
               "EditorCaption": ""
