@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|d:\\proyectosc#\\gomez_garcia_hotfix\\gomez_garcia_hotfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|solutionrelative:gomez_garcia_hotfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|d:\\proyectosc#\\gomez_garcia_hotfix\\gomez_garcia_hotfix\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649F8B24-DED6-4372-AF17-1C94160E58B7}|Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix.csproj|solutionrelative:gomez_garcia_hotfix\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix\\Personaje.cs",
+              "RelativeDocumentMoniker": "Gomez_Garcia_hotfix\\Personaje.cs",
+              "ToolTip": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix\\Personaje.cs",
+              "RelativeToolTip": "Gomez_Garcia_hotfix\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T23:52:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix\\Program.cs",
+              "RelativeDocumentMoniker": "Gomez_Garcia_hotfix\\Program.cs",
+              "ToolTip": "D:\\ProyectosC#\\Gomez_Garcia_hotfix\\Gomez_Garcia_hotfix\\Program.cs",
+              "RelativeToolTip": "Gomez_Garcia_hotfix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T23:49:56.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

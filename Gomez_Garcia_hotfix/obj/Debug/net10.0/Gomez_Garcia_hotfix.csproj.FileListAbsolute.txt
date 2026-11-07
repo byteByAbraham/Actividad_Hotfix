@@ -1,0 +1,15 @@
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\bin\Debug\net10.0\Gomez_Garcia_hotfix.exe
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\bin\Debug\net10.0\Gomez_Garcia_hotfix.deps.json
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\bin\Debug\net10.0\Gomez_Garcia_hotfix.runtimeconfig.json
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\bin\Debug\net10.0\Gomez_Garcia_hotfix.dll
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\bin\Debug\net10.0\Gomez_Garcia_hotfix.pdb
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Garcia_hotfix.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Garcia_hotfix.AssemblyInfoInputs.cache
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Garcia_hotfix.AssemblyInfo.cs
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Garcia_hotfix.csproj.CoreCompileInputs.cache
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Garcia_hotfix.dll
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\refint\Gomez_Garcia_hotfix.dll
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Garcia_hotfix.pdb
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Garcia_hotfix.genruntimeconfig.cache
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\ref\Gomez_Garcia_hotfix.dll
+D:\ProyectosC#\Gomez_Garcia_hotfix\Gomez_Garcia_hotfix\obj\Debug\net10.0\Gomez_Ga.D75D5AC7.Up2Date

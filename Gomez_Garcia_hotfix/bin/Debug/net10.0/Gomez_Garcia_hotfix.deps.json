@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Gomez_Garcia_hotfix/1.0.0": {
+        "runtime": {
+          "Gomez_Garcia_hotfix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gomez_Garcia_hotfix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
