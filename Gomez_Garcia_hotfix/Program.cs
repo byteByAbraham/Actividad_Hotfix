@@ -8,7 +8,7 @@ Personaje personaje = new Personaje
     Vida = 100,
     Ataque = 20,
     Defensa = 10,
-    Nivel = 1
+    Nivel = 
 };
 
 Console.WriteLine($"Nombre: {personaje.Nombre}");
